@@ -8,4 +8,4 @@ Stu_ID | Name
 
 **Talha**: Talented And Adventerous
 
-**63578** | **Hasnain Tariq**
+**Hasnain**:Talented And Adventerous
