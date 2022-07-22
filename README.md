@@ -12,3 +12,4 @@ Stu_ID | Name
 **Talha**: Talented And Adventerous
 
 **Abdullah**: Talented And Hard Working
+**Hasnain tariq**: Talented And Hard Working
