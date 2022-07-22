@@ -11,5 +11,4 @@ Stu_ID | Name
 
 **Talha**: Talented And Adventerous
 
-**Abdullah**: Talented And Hard Working
-
+**Abdullah**: Talented 
