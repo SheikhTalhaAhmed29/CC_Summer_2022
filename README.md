@@ -12,3 +12,5 @@ Stu_ID | Name
 **Talha**: Talented And Adventerous
 
 **Abdullah**: Talented And HardWorking
+
+**Hafiz Ali Hammad**: Student of BSCS in KIET, Salesforce Cloud developer, and Alhamdulillah Problem Solver 
