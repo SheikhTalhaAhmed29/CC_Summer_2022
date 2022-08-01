@@ -15,4 +15,4 @@ Stu_ID | Name
 
 **Hafiz Ali Hammad**: Student of BSCS in KIET, Salesforce Cloud developer, and Alhamdulillah Problem Solver 
 
-**Hasnain Tariq Siddique**: I am student of PAF-KIET university. I am studing compiler construction from sir farooq zaidi. I have expertise in azure devops terraform and cloud automation.
+**Hasnain Tariq Siddique**: I am student of PAF-KIET university. I am studing compiler construction from sir farooq zaidi. I have expertise in azure devops,terraform and cloud automation.
