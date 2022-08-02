@@ -1,5 +1,5 @@
 Email Validation Video Link
-https://github.com/SheikhTalhaAhmed29/CC_Summer_2022/blob/main/Assign02/EmailValidation.mp4
+https://drive.google.com/file/d/1U-OVbiNhnM_mYwTnpjBv8ouxo4Wn9E9I/view?usp=drivesdk
 
 **The Problem We Face**
 The Problem we see in program is validation, if the numbers or charachters are before the "@" or after because the program should accept those special characters and numbers before "@" but not after.
