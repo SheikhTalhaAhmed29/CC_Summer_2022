@@ -7,7 +7,7 @@ Stu_ID | Name
 **63578** | **Hasnain Tariq**
 **64181** | **Hafiz Ali Hammad**
 **63623** | **Abdullah Tahir**
-**** | **Gulam Murtuza**
+**62803** | **Gulam Murtuza**
 
 
 **Talha**: Talented And Adventerous
