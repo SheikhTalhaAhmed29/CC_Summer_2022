@@ -1,3 +1,6 @@
+Email Validation Video Link
+https://github.com/SheikhTalhaAhmed29/CC_Summer_2022/blob/main/Assign02/EmailValidation.mp4
+
 **The Problem We Face**
 The Problem we see in program is validation, if the numbers or charachters are before the "@" or after because the program should accept those special characters and numbers before "@" but not after.
 Moving on to the question of validating IOS Phone Number. The problem which arose during solving this question was just to add "+" and count the digits because the International Pakistan Phone Number accepts 12 numbers excluding the "+" for example +92xxxxxxxxxxso we had to make sure that we develop a program that satisfies the mentioned conditions.
