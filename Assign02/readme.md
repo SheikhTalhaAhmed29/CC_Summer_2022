@@ -1,5 +1,8 @@
-Email Validation Video Link
+* Email Validation Video Link *
 https://drive.google.com/file/d/1U-OVbiNhnM_mYwTnpjBv8ouxo4Wn9E9I/view?usp=drivesdk
+
+* Phone Number Validation Video Link *
+https://drive.google.com/file/d/1U-TmYlSPtFmgsLCxeg9y2U3tgO6yCjv1/view?usp=drivesdk
 
 **The Problem We Face**
 The Problem we see in program is validation, if the numbers or charachters are before the "@" or after because the program should accept those special characters and numbers before "@" but not after.
