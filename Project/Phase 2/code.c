@@ -1,6 +1,6 @@
 void bubbleSort(int array[], int size) {
 
-  // loop to access each array element
+  // loop to access each element of array
   for (int step = 0; step < size - 1; ++step) {
       
     // loop to compare array elements
