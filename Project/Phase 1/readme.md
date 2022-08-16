@@ -22,7 +22,7 @@ Operators in Language // % < > <= >= == != = ( ) [ ] ->
 
 A delimiter (also known as separator) is a sequence of one or more characters used to specify the boundary between separate, independent regions in plain text or other data streams. E.g , ; : . etc.
 
-## Example Code 
+## Example Code :
 ```
 void bubbleSort(int array[], int size) {
 
