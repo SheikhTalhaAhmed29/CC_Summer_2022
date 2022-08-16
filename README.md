@@ -14,8 +14,8 @@ Stu_ID | Name
 
 **Abdullah**: Working in Oracle based applications, 
               Participating in Oracle implementations, including multiple full cycles of 11i and R12 implementations
-              
-              
+              Able to create Front and Back Both ends Applications in Oracle Apex
+                            
 **Hafiz Ali Hammad**: Student of BSCS in KIET, Salesforce Cloud developer, and Alhamdulillah Problem Solver 
 
 **Hasnain Tariq Siddique**: I am student of PAF-KIET university. I am studing compiler construction from sir farooq zaidi. I have expertise in azure devops,terraform and cloud automation.
