@@ -36,3 +36,10 @@ It was very difficult to find flex and yacc programs integration so we found an 
 
 At the initial implementation of parser we faced huge number of conflicts in grammar because there are many places where we have clear grammar without (fuzzy rules) but the yacc cannot handle it because it generates LALR(1) parsers by default with limited look ahead ability.
 By specifying the associativity property of different operators, we resolve many shift/reduce issues in the yacc program, and by opening and closing curly braces {} the remaining conflicts were eliminated and also we resolve some statements by using various precedence rules to associate else with the nearest if.
+
+## Input File Of Code
+![image](https://user-images.githubusercontent.com/57304670/184992786-c2c0dce5-7f5c-464e-9419-aeef15936bc4.png)
+
+## Output File Of Python Code
+![image](https://user-images.githubusercontent.com/57304670/184992996-bbc21e12-be81-47dd-b07f-1a6ba3d01807.png)
+
