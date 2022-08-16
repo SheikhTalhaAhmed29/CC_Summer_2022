@@ -16,7 +16,7 @@ Keywords are not recognized as identifiers. Some keywords are: False, None, True
 
 ### Operators: ###
 
-Operators in Language // % < > <= >= == != = ( ) [ ] ->
+Operators in Language // % < > <= >= == != = ( ) [ ] -
 
 ### Delimiters: ###
 
@@ -35,7 +35,7 @@ int main() {
         num1 = num1 / 2;
     }
 
-    if (num1 == 0) {
+    if (num1 = 0) {
         num2 = num1 / 2;
     }
 }
