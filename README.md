@@ -10,7 +10,7 @@ Stu_ID | Name
 **62803** | **Murtaza Memon**
 
 
-**Talha**: Talented And Adventerous Sports Lover
+**Talha**: I am a Freelance Software Developer working on Fiver, Upwork.
 
 **Abdullah**: Working in Oracle based applications, 
               Participating in Oracle implementations, including multiple full cycles of 11i and R12 implementations
