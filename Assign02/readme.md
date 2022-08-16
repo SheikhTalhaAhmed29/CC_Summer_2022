@@ -1,4 +1,4 @@
-# Email Validation Video  #
+# Email Validation Video Link #
 https://drive.google.com/file/d/1U-OVbiNhnM_mYwTnpjBv8ouxo4Wn9E9I/view?usp=drivesdk
 
 # Phone Number Validation Video Link #
