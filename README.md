@@ -6,7 +6,7 @@ Stu_ID | Name
 **64071** | **Talha Ahmed**
 **63578** | **Hasnain Tariq**
 **64181** | **Hafiz Ali Hammad**
-**63623** | **Abdullah Tahir**
+**63623** | **Abdullah Tahir*
 **62803** | **Murtaza Memon**
 
 
