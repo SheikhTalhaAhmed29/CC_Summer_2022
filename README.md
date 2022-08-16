@@ -10,7 +10,7 @@ Stu_ID | Name
 **62803** | **Murtaza Memon**
 
 
-**Talha**: Talented And Adventerous
+**Talha**: Talented And Adventerous Sports Lover
 
 **Abdullah**: Working in Oracle based applications, 
               Participating in Oracle implementations, including multiple full cycles of 11i and R12 implementations
