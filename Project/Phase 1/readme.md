@@ -35,7 +35,7 @@ int main() {
         num1 = num1 / 2;
     }
 
-    if (num1 = 0) {
-        num2 == num1 / 2;
+    if (num1 == 0) {
+        num2 = num1 / 2;
     }
 }
