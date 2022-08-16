@@ -18,7 +18,7 @@ Stu_ID | Name
                             
 **Hafiz Ali Hammad**: Student of BSCS in KIET, Salesforce Cloud developer, and Alhamdulillah Problem Solver 
 
-**Hasnain Tariq Siddique**: I am student of PAF-KIET university. I am studing compiler construction from sir farooq zaidi. I have expertise in azure devops,terraform and cloud automation.
+**Hasnain Tariq Siddique**: I am student of PAF-KIET university. I am studing compiler construction from sir farooq zaidi. I have expertise in azure devops,terraform and cloud automation,and working on inet system inc as a junior cloud administrator.
 
 **Murtaza Memon** :
 I'm Murtaza Memon. Having completed my intermediate as a Computer Science student from superior college Karachi, in 2018, I'm currently enrolled as a Computer Science major at **PAF Karachi Institute of Economics & Technology (kiet) . Reason of my choosing computer science is the I have little bit interest in the field, and I don’t want to study chemistry. After completing my bachelor’s in computer science I want to do masters in cyber security for my future goals and my future goals are to stablish my own business.
