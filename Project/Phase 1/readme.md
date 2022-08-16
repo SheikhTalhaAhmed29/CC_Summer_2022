@@ -1,6 +1,6 @@
 ## The Language Selected: ##
 
-Selected language is Mini-C that has a syntax similar to C.
+Selected language is Mini-C that has a syntax similar to d.
 
 ## Languagae Specification: ##
 
